@@ -6,7 +6,7 @@
 }
 
 .plans.container--slider {
-    overflow-x: unset;
+    overflow-x: hidden;
     justify-content: center;
 }
 
